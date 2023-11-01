@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEP_API_003", "WEP_API_003.csproj", "{2D1B090A-E167-482C-B418-A83E8424DA49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain_", "..\Domain_\Domain_.csproj", "{86B6437C-D9F4-4C30-B84A-05FC10427909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "..\Services\Services.csproj", "{C3B0FF55-0577-452B-B500-483F66DD22AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1B090A-E167-482C-B418-A83E8424DA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1B090A-E167-482C-B418-A83E8424DA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1B090A-E167-482C-B418-A83E8424DA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1B090A-E167-482C-B418-A83E8424DA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B6437C-D9F4-4C30-B84A-05FC10427909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B6437C-D9F4-4C30-B84A-05FC10427909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B6437C-D9F4-4C30-B84A-05FC10427909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B6437C-D9F4-4C30-B84A-05FC10427909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B0FF55-0577-452B-B500-483F66DD22AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B0FF55-0577-452B-B500-483F66DD22AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B0FF55-0577-452B-B500-483F66DD22AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B0FF55-0577-452B-B500-483F66DD22AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDA9C46-B8BC-44FB-B20E-811EFAE56014}
+	EndGlobalSection
+EndGlobal
